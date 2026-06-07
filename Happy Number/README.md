@@ -60,5 +60,5 @@ To prevent regression when applying optimizations, the testing phase utilizes th
 ---
 
 ## 🔗 Section 4: Resource Sharing
-- **My LeetCode Solution:** [Link to your LeetCode post]
+- **My Solution:** [Link to my solution](Hash_set.cpp)
 - **Academic Reference:** [link](https://leetcode.com/problems/happy-number/solutions/6750358/video-2-solutions-using-remainder-and-tw-bwks/)
