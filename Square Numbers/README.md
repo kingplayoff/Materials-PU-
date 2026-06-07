@@ -3,7 +3,7 @@
 ## 📋 Problem Description
 
 
-![Problem Statement](Q6.png)
+![Problem Statement](Q8.png)
 
 - **Official Platform Link:** [Square Numbers](https://cpex.cs.pu.edu.tw/contest/2/problem/Ex2-Q4)
 
