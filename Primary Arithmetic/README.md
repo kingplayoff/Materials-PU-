@@ -3,7 +3,7 @@
 ## 📋 Problem Description
 
 
-![Problem Statement](Q10.png)
+![Problem Statement](Q9.png)
 
 - **Official Platform Link:** [Primary Arithmetic](https://cpex.cs.pu.edu.tw/contest/3/problem/Ex3-Q1)
 
