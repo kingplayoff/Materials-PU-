@@ -36,7 +36,7 @@ The core evaluation framework relies on analyzing character frequency distributi
 
 ### 2. Key Patern
 
-![Picture](flowchart.png)
+![Picture](flowchart2.png)
 
 *Figure: Architectural flowchart tracking character hash count tracking and sorted list comparison paths.*
 
