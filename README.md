@@ -41,8 +41,20 @@ Here is the complete list of problems I have solved and optimized, categorized b
 
 ---
 
-## 🔍 Bug Hunting & General Lessons Learned
+---
 
-*(Giữ lại mục này để ghi chép những lỗi chung bạn hay gặp khi code, rất có giá trị với giáo viên)*
-- **Loop Termination Faults:** Preventing infinite execution chains by strictly mapping pointer mutations.
-- **Truncation Cascades:** Managing the sequence of `n % 10` and `n /= 10`.
+## 💡 Methodology & Insights
+* **Decomposition:** Breaking down complex problems into manageable states before implementation.
+* **Boundary Awareness:** Proactively handling edge cases (e.g., $n=0, 1$, negative inputs) to ensure code robustness.
+* **Efficiency First:** Always seeking the balance between time complexity and memory usage; utilizing memoization where iterative calls overlap.
+
+---
+
+## 🚀 Future Roadmap
+As I continue to expand this repository, my next focuses include:
+* Implementing more advanced graph algorithms (Dijkstra, A*).
+* Exploring Dynamic Programming optimization techniques.
+* Improving time complexity through bitwise operations and advanced data structure selection.
+
+---
+*Last updated: June 8th 2026*
