@@ -10,33 +10,33 @@ Here is the complete list of problems I have solved and optimized, categorized b
 
 | Number | Problem | Primary Concept | Optimized? | Source Code & Notes |
 | :--- | :--- | :--- | :---: | :--- |
-| 1 | Happy Number | Hash Set / Cycle Detection |  | [View Solution & Explanation](./01-Data-Structures/Hash-Set/Happy-Number/) |
-| 2 | Pizza Cutting | 3D to 2D State Reduction |  | [View Solution & Explanation](./02-Dynamic-Programming/Pizza-Cutting/) |
-| 3 | The 3n + 1 problem | Two-pointer approach |  | [View Solution & Explanation](./03-Two-Pointers/Container-With-Most-Water/) |
-| 4 | Primary Arithmetic | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 5 | B2-Sequence | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 6 | Ant on a Chessboard | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 7 | Good luck | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 8 | Language Detection | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 9 | Square Numbers | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 10 | Can You Solve It? | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 11 | Summing Digits | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 12 | Perfection | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 13 | Basic wall maze | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 14 | Ancient Cipher | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 15 | Checkers | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 16 | Finding Haplotypes | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 17 | Polynomial Showdown | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 18 | Haiku Review | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 19 | Zapping | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 20 | Word Amalgamation | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 21 | The 3n + 1 Sequence (Single) | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 22 | Ant on a 5x5 Chessboard | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 23 | Perfect, Deficient, or Abundant | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 24 | Simple Cipher | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 25 | 3-Line Haiku Check | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 26 | Parentheses Balance | *Khái niệm chính* |  | [Link tới thư mục](./) |
-| 27 | Cool Word | *Khái niệm chính* |  | [Link tới thư mục](./) |
+| 1 | Happy Number | Hash Set / Cycle Detection |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Happy%20Number) |
+| 2 | Pizza Cutting | 3D to 2D State Reduction |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Pizza%20Cutting) |
+| 3 | The 3n + 1 problem | Two-pointer approach |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/The%203n%20%2B%201%20problem) |
+| 4 | Primary Arithmetic | Elementary Arithmetic, Digit-by-digit processing (% 10, / 10), Carry count tracking. |  | [Link tới thư mục](https://github.com/kingplayoff/Materials-PU-/tree/main/Primary%20Arithmetic) |
+| 5 | B2-Sequence | Pairwise sum uniqueness & Strict monotonicity. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/B2-Sequence) |
+| 6 | Ant on a Chessboard | Mathematical Mapping, Shell/Layer Decomposition. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Ant%20on%20a%20Chessboard) |
+| 7 | Good luck | Combinatorial Enumeration & Probability Verification. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Good%20Luck) |
+| 8 | Language Detection | Statistical Frequency Analysis & N-gram Profiling. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Language%20Detection) |
+| 9 | Square Numbers | Perfect Square Identification & Range Optimization. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Square%20Numbers) |
+| 10 | Can You Solve It? | Algebraic Logic & Equation Solving. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Can%20you%20solve%20it%3F) |
+| 11 | Summing Digits | Digit Summation & Digital Root. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Summing%20digits) |
+| 12 | Perfection | Proper Divisor Summation & Classification. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Perfection) |
+| 13 | Basic wall maze | Graph Traversal & Pathfinding. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Basic%20wall%20maze) |
+| 14 | Ancient Cipher | Frequency Analysis & Character Mapping. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Ancient%20Cipher) |
+| 15 | Checkers | Grid Simulation & Connectivity Analysis. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Checkers) |
+| 16 | Finding Haplotypes | Pattern Matching & Combinatorial Analysis. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Finding%20Haplotypes) |
+| 17 | Polynomial Showdown | Polynomial Representation & Algebraic Formatting. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Polynomial%20Showdown) |
+| 18 | Haiku Review | Syllable Counting & Structural Pattern Matching. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Haiku%20Review) |
+| 19 | Zapping | Circular Range & Absolute Difference. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Zapping) |
+| 20 | Word Amalgamation | Anagram Discovery & Lexicographical Mapping. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/World%20Amalgamation) |
+| 21 | The 3n + 1 Sequence (Single) | Iterative State Simulation & Sequence Length Tracking. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/The%203n%20%2B%201%20Sequence%20(Single)) |
+| 22 | Ant on a 5x5 Chessboard | Simulation, Boundary Checks. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Ant%20on%20a%205x5%20Chessboard) |
+| 23 | Perfect, Deficient, or Abundant | Proper Divisor Summation & Classification. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Perfect%2C%20Deficient%2C%20or%20Abundant) |
+| 24 | Simple Cipher | Frequency Analysis & Character Mapping. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Simple%20Cipher) |
+| 25 | 3-Line Haiku Check | Pattern Matching & Vowel Count Validation. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/3-Line%20Haiku%20Check) |
+| 26 | Parentheses Balance | Stack-based Expression Parsing. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Parentheses%20Balance) |
+| 27 | Cool Word | String Processing & Divisibility Constraints. |  | [View Solution & Explanation](https://github.com/kingplayoff/Materials-PU-/tree/main/Cool%20Word) |
 
 
 
