@@ -80,4 +80,4 @@ The step-by-step pseudocode execution process operates conceptually as follows:
 
 ## 🔗 References
 - **My Solution :** [collatz_single.py](collatz_single.py)
-- **Academic Reference Portfolio:** [link]([https://leetcode.com/](https://padlet.com/htchutaiwan/cpe-code-studies-padlet-a-f2sd1nwvu5nnis83))
+- **Academic Reference Portfolio:** [link](https://padlet.com/htchutaiwan/cpe-code-studies-padlet-a-f2sd1nwvu5nnis83)
